@@ -4,20 +4,21 @@ Offene Wahlen Österreich
 repo und website beschreiben
 
 # Beschreibung
-Offene Wahlen AT setzt sich für einen offenen und transparenten Wahlprozess in Österreich ein. Hier gibt es Informationen zu Open Data bei Wahlen und über Transparenz bei Wahlen. Zentraler Input für die Inhalte ist der [Election Data Guide](http://www.openelectiondata.net/en/guide/).
+Offene Wahlen DE setzt sich für einen offenen und transparenten Wahlprozess in Deutschland ein. Hier gibt es Informationen zu Open Data bei Wahlen und über Transparenz bei Wahlen. Zentraler Input für die Inhalte ist der [Election Data Guide](http://www.openelectiondata.net/en/guide/), [Offene Wahlen AT](https://github.com/OKFNat/offenewahlen-website) sowie das [Wahldaten-Repo der Open Knowledge Foundation Deutschland](https://github.com/okfde/wahldaten).
 
 **Zielgruppe des Repos**
-Interessierte sowie Expert_innen die sich in das Thema einlesen wollen.
-- zivile Organisationen die sich mit dem Thema Wahlen beschäftigen
-- Wahlbehörden, die eine klare und konkrete Definition von Open Data brauchen
+Interessierte sowie Expert_innen, die sich in das Thema einlesen wollen.
+- zivilgesellschaftliche Organisationen, die sich mit dem Thema Wahlen beschäftigen
+- Für Wahlen zuständige öffentliche Stellen, die eine klare und konkrete Definition von Open Data brauchen
 - Leute in den Medien und andere Interessierte, die sich in das Thema einlesen wollen
 - politische Parteien, die sich über Open Data informieren wollen
 - Wissenschaftler_innen
 
-# Contributors
-- Leute und Organisationen auflisten und Bedanken, die mitgeholfen haben. 
-
 ## QUELLEN
+Deutschland:
+- [Wahldaten-Repo](https://github.com/okfde/wahldaten)
+
+Österreich:
 - [Blog Post]()
 - [Offene Wahlen @ Open Knowledge Österreich]()
 - [BMI Wahlen](http://www.bmi.gv.at/cms/bmi_wahlen/)
