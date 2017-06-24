@@ -1,4 +1,4 @@
-Offene Wahlen Österreich
+Offene Wahlen Deutschland
 ==============================
 
 repo und website beschreiben
